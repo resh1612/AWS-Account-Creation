@@ -29,8 +29,7 @@ Set Permissions for IAM User
 
 ### Steps 7:
 Review and Create IAM User
-## COMMANDS
-Include the commands used in the Experiment.
+
 
 ## OUTPUT
 
